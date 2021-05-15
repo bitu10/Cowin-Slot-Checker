@@ -1,8 +1,7 @@
 # Cowin-Slot-Checker
-Python script for Cowin Slot availability for mumbai, bangalore [select pincodes]
-
+Python script for Cowin Slot availability for mumbai, bangalore
 ## Setup
-Add fastSms API key (fetch it after registering in fastSMS website and going to developer tab)
+Add fastSms API key (fetch it after registering in fastSMS website and going to developer tab) to authorization key of message header
 Edit numbers for sending message to (scroll to the bottom section)
 Edit 'pincodes' array to specify any pincode in Bangalore and Mumbai
 
