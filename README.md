@@ -1,5 +1,5 @@
 # Cowin-Slot-Checker
-Python script for Cowin Slot availability for mumbai, bangalore
+Python script for Cowin Slot availability check in mumbai & bangalore
 ## Setup
  - Add fastSms API key (fetch it after registering in fastSMS website and going to developer tab) to authorization key of message header
  - Edit numbers for sending message to (scroll to the bottom section)
