@@ -1,4 +1,4 @@
-# Cowin-Slot-Checker
+# Cowin Slot Availability Checker
 Python script for Cowin Slot availability check in mumbai & bangalore
 ## Setup
  - Edit 'pincodes' array to specify any pincode in Bangalore and Mumbai (4th cell)
